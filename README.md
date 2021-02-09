@@ -8,9 +8,9 @@ Criado através do curso <b>Maratona Discover</b> da <b>Rockectseat</b>,
 
 ## Tecnologias
 
-- HTML
-- CSS
-- JavaScript
+ -  HTML
+ -  CSS
+ -  JavaScript
 
 
 <img src="./assets/inicial.png">
